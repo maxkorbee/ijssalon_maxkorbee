@@ -25,3 +25,5 @@ def meervoudig(invoer_lijst):
 def combinatie(invoer_lijst_2):
     korte_lijst = laag_en_hoog(invoer_lijst_2)
     return mijn_functie_2(korte_lijst[0], korte_lijst[1])
+
+print(aanbieding_1("aardbei", 20, .1))
